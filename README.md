@@ -2,9 +2,9 @@
 
 Adds three buttons on the results page of **Puzzle Storm** and **Puzzle Racer** on lichess.org:
 
-- **Open mislukte** — opens all failed puzzles in new tabs
-- **Open trage** — opens all slow (overtime) puzzles in new tabs
-- **Open beide** — opens both sets (unique)
+- **Open failed** — opens all failed puzzles in new tabs
+- **Open slow** — opens all slow (overtime) puzzles in new tabs, this are puzzles defined as taking longer than 5 seconds to solve.
+- **Open both** — opens both sets (unique)
 
 ## Install (Developer Mode)
 
