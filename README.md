@@ -8,7 +8,8 @@ Adds three buttons on the results page of **Puzzle Storm** and **Puzzle Racer** 
 
 ## Install (Developer Mode)
 
-1. Download this folder or the provided ZIP.
+1. Clone this repository
+git clone https://github.com/lvg42069/lichess-retry-extension.git
 2. In Chrome, go to `chrome://extensions` → enable **Developer mode**.
 3. Click **Load unpacked** and select the folder.
 4. Visit a results page after finishing a Storm/Racer run. You should see the new buttons next to the native filter buttons.
@@ -22,3 +23,4 @@ Adds three buttons on the results page of **Puzzle Storm** and **Puzzle Racer** 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE] file for details.
+
